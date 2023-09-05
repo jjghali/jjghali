@@ -1,9 +1,12 @@
 ## Hi there 👋
-I'm Josh. I work as a DevOps consultant and currently studying in Software Engineering at [ÉTS](https://www.etsmtl.ca/). I create small projects in Python in my spare time.
+I'm Josh. I work as a DevOps specialist and tinkerer. I sometime work on small projects related to DevOps and cloud computing.
 
 ## Projects I'm currently working on 🔭
-Currently I'm working on release manager which will allow teams to generate a release note for a specific version of their app based on the data coming from a Git repository and a ticket manager. I am also working on small projects that may improve delivery and anything DevOps related.
+Currently I'm working on a few projects:
+- Revamping my personal with a blog [website](https://joshuaghali.com).
+- Setting a homelab with all the basic apps I need to run some experiments (Proxmox, Kubernetes, Nextcloud, Gitlab, etc)
+- Learning more about Kubernetes and how to deploy applications on it.
+- Following a class for AZ-204 and AZ-400 certification 
 
-## Ask me about 💬
-Ask me about how I drink my coffee ☕
+
 
